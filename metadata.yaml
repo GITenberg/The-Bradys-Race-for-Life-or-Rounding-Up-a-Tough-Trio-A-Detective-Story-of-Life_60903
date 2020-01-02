@@ -1,0 +1,30 @@
+_repo: The-Bradys-Race-for-Life-or-Rounding-Up-a-Tough-Trio-A-Detective-Story-of-Life_60903
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doughty, Francis Worcester
+    alias: New York detective
+    birthdate: 1850
+    deathdate: 1917
+    gutenberg_agent_id: '7018'
+    url: http://www.gutenberg.org/2009/agents/7018
+    wikipedia: https://en.wikipedia.org/wiki/Francis_W._Doughty
+description: ''
+gutenberg_issued: '2019-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Secret service, Old and Young King Brady, detectives, no. 84.
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PS'
+- !lcsh 'American fiction'
+- !lcsh 'Dime novels'
+- GITenberg
+title: 'The Bradys'' Race for Life; or, Rounding Up a Tough Trio: A Detective Story
+  of Life'
+url: http://www.gutenberg.org/ebooks/60903
