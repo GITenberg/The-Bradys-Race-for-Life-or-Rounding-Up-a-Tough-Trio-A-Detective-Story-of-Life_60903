@@ -1,5 +1,8 @@
 _repo: The-Bradys-Race-for-Life-or-Rounding-Up-a-Tough-Trio-A-Detective-Story-of-Life_60903
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60903-h/images/cover.jpg
 creator:
   author:
     agent_name: Doughty, Francis Worcester
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7018
     wikipedia: https://en.wikipedia.org/wiki/Francis_W._Doughty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60903#The-Bradys-Race-for-Life-or-Rounding-Up-a-Tough-Trio-A-Detective-Story-of-Life
 gutenberg_issued: '2019-12-11'
 gutenberg_type: Text
 identifiers:
